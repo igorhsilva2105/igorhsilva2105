@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Henrique da Silva
+# 👨‍💻 Igor Henrique da Silva
 
 **`Dev`**
 
