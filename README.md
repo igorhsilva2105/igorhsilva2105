@@ -4,23 +4,6 @@
 
 Me chamo Igor Henrique da Silva, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Sesi, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando estudando bastante para me tornar um DEV de respeito. Fiquem a vontade para acompanhar esse meu desenvolvimento.
 
-<p align="left">
-    <a href="https://github.com/igorhsilva2105?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/igorhsilva2105?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/igorhsilva2105?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/igorhsilva2105?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
