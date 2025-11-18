@@ -86,10 +86,4 @@ Me chamo Igor Henrique da Silva, tenho 20 anos e sou natural de São Paulo. Conc
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorhsilva2105&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-    <img 
-        alt="HTML"
-        title="HTML" 
-        width="120px"
-        src="https://media.tenor.com/P9YBZNMSjyQAAAAM/flying-stone-yoda.gif"
-    />
 </p>
